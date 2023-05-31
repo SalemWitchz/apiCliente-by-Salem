@@ -10,3 +10,5 @@ Funciones
 * Editar Usuarios
 * Borrar Usuarios
 * Leer Usuarios
+
+![Logo de Wikipedia](https://th.bing.com/th/id/OIP.45-dCd_76jo4lu2sn8VCIwHaFj?pid=ImgDet&rs=1)
